@@ -1,0 +1,53 @@
+Types of Market behaviours
+
+Weekday(5) X sentiment(2) X Strength(3)
+
+
+                 Strong(>90)
+               / 
+        Bullish - weak(65-90)
+      /        \
+Monday          Flat(<|65|)
+      \        /
+        Bearish - Strong (<-90)
+               \ 
+                weak
+
+2023 (May-July) (closing)
+
+1. Monday Bullish Strong - 22 May(18314), 29 May(18598), 3 July(19322)
+2. Monday Bullish weak -  15 May(18398)
+3. Monday Bullish Flat - 5 June(18593), 12 June(18601),26 June(18691)
+4. Monday Bearish Strong
+5. Monday Bearish weak - 19 Jun(18755)
+6. Monday Bearish Flat
+
+1. Tuesday Bullish Strong - 13 June(18716), 27 June(18817) 
+2. Tuesday Bullish weak - 4 July(19389)
+3. Tuesday Bullish Flat - 9 May(18265), 23 May(18348), 30 May(18633), 6 June(18599), 20 June(18816)
+4. Tuesday Bearish Strong- 16 May(18286)
+5. Tuesday Bearish weak
+6. Tuesday Bearish Flat - 
+
+1. Wednesday Bullish Strong - 7 June(18726)
+2. Wednesday Bullish weak
+3. Wednesday Bullish Flat - 10 May(18315), 14 June(18755), 21 June(18856)
+4. Wednesday Bearish Strong - 31 May(18534), 17 May(18181), 28 June(18972)
+5. Wednesday Bearish weak
+6. Wednesday Bearish Flat - 5 July(19398) , 24 May(18285) 
+
+1. Thursday Bullish Strong - 6 July(19444)
+2. Thursday Bullish weak - 22 June(18771)
+3. Thursday Bullish Flat - 25 May(18321), 7 July(19331)
+4. Thursday Bearish Strong - 8 June(18634)
+5. Thursday Bearish weak - 15 June(18688)
+6. Thursday Bearish Flat - 11 May(18297), 1 June(18487), 18 May(18129) 
+
+1. Friday Bullish Strong - 26 May(18499), 16 June(18826), 30 June(19189) 
+2. Friday Bullish weak- 19 May(18203)
+3. Friday Bullish Flat - 12 May(18314), 2 June(18534)
+4. Friday Bearish Strong - 23 June(18665)
+5. Friday Bearish weak - 9 June(18563)
+6. Friday Bearish Flat
+
+
